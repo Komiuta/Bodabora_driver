@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/thinkin_cab_driver_2020.iml" filepath="$PROJECT_DIR$/.idea/thinkin_cab_driver_2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/thinkin_cab_driver_2020.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/thinkin_cab_driver_2020.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/braintreepayment/thinkin_cab_driver_2020.braintreepayment.iml" filepath="$PROJECT_DIR$/.idea/modules/braintreepayment/thinkin_cab_driver_2020.braintreepayment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativechekoutpaypal/thinkin_cab_driver_2020.nativechekoutpaypal.iml" filepath="$PROJECT_DIR$/.idea/modules/nativechekoutpaypal/thinkin_cab_driver_2020.nativechekoutpaypal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/paytmpayment/thinkin_cab_driver_2020.paytmpayment.iml" filepath="$PROJECT_DIR$/.idea/modules/paytmpayment/thinkin_cab_driver_2020.paytmpayment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stripepayment/thinkin_cab_driver_2020.stripepayment.iml" filepath="$PROJECT_DIR$/.idea/modules/stripepayment/thinkin_cab_driver_2020.stripepayment.iml" />
+    </modules>
+  </component>
+</project>

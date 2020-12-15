@@ -1,0 +1,398 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+
+    <string name="copy_rights">Thinkin Cab Standard &#169; 2020</string>
+
+    <string name="amt_placeholder" translatable="false">$ XX.xx</string>
+    <string name="distance_placeholder" translatable="false">XX.xx Km</string>
+    <string name="time_placeholder" translatable="false">XX.xx min</string>
+    <string name="text_placeholder" translatable="false">XX xx XX xx</string>
+
+    <!--Bienvenue-->
+    <string name="sign_in">CONNEXION</string>
+    <string name="sign_up">INSCRIPTION</string>
+    <string name="or_connect_with_social">Ou se connecter avec un compte de réseau social</string>
+
+    <string name="walk_1">Bienvenue</string>
+    <string name="walk_2">Conduisez avec Thinkin Cab</string>
+    <string name="walk_3">Gagnez</string>
+    <string name="walk_1_description">Des opportunités où que vous soyez. Rentabilisez votre temps sur la route grâce à la nouvelle plateforme.</string>
+    <string name="walk_2_description">Devenez votre propre patron. Suivez chaque jour vos bénéfices en temps réel.</string>
+    <string name="walk_3_description">Devenez partenaires de l\'application préférée des chauffeurs. Générez vos revenus tout en gérant votre emploi du temps.</string>
+    <string name="lorum">Lorem.</string>
+
+    <string name="welcome_back_sign_in_to_continue">Bienvenue à nouveau, connectez-vous pour continuer</string>
+    <string name="what_your_email_address">Quel est votre adresse e-mail?</string>
+    <string name="enter_your_password">Renseignez votre mot de passe</string>
+    <string name="enter_your_email">Renseignez votre e-mail</string>
+    <string name="i_forgot_my_password">J\'ai oublié mon mot de passe</string>
+    <string name="i_need_to_create_an_account">Créer un nouveau compte</string>
+    <string name="invalid_email">Veillez entrer un e-mail valide</string>
+    <string name="invalid_password">Veillez entrer un mot de passe valide</string>
+    <string name="name_exampple_com">exemple@gmail.com</string>
+
+    <string name="curr_pwd_val">Ancien mot de passe!</string>
+    <string name="confirm_pwd_val">Veuillez confirmer le mot de passe!</string>
+
+    <string name="enter_the_details_you_used_to_register">Completez le formulaire d\'inscription</string>
+    <string name="email">E-mail</string>
+    <string name="name">Nom</string>
+    <string name="first_name">Prénom</string>
+    <string name="last_name">Nom</string>
+    <string name="phone_number">Numéro de téléphone</string>
+    <string name="password">Mot de passe</string>
+    <string name="confirm_password">Confirmez votre mot de passe</string>
+    <string name="country">Pays</string>
+    <string name="timezone">Fuseau horaire</string>
+    <string name="referral_code">Code de parrainage (facultatif)</string>
+
+    <string name="choose_an_account">Choisissez un compte</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+
+    <!--ForgotPassword Activity-->
+    <string name="enter_your_mail_id_for_recover">Entrez votre e-mail pour la récupération</string>
+    <string name="enter_otp">Entrez la clé OTP</string>
+    <string name="forgot_password_note_msg">Remarque : Veillez saisir la clé OTP que vous avez reçu par SMS ou email</string>
+    <string name="otp_validation">Le champ OTP est obligatoire</string>
+    <string name="reset_password">Réinitialiser le mot de passe</string>
+    <string name="name_example_com">exemple@gmail.com</string>
+
+    <string name="new_password">Nouveau mot de passe</string>
+    <string name="old_password">Ancien mot de passe</string>
+    <string name="note_please_enter_the_otp_send_tc_your_registered_email_address">Remarque : Veillez saisir la clé OTP que vous avez reçu par SMS ou email</string>
+
+    <string name="trip_type">Type de trajet</string>
+    <string name="business">Professionnelle</string>
+    <string name="personal">Personnelle</string>
+    <string name="rental">Location</string>
+    <string name="vehicle_make">Marque du véhicule</string>
+    <string name="vehicle_model">Modèle du véhicule</string>
+    <string name="vehicle_year">Année du véhicule</string>
+    <string name="vehicle_color">Couleur du véhicule</string>
+    <string name="vehicle_license_plate">Plaque d\'immatriculation du véhicule</string>
+    <string name="city">Ville</string>
+    <string name="car_category">Catégorie de la voiture</string>
+    <string name="outstation">Hors station</string>
+    <string name="shuttle">Navette</string>
+    <string name="round_trip">Aller-retour</string>
+    <string name="one_way">Aller simple</string>
+    <string name="i_have_read_and_agreed_the_n_terms_and_conditions">J\'ai lu et j\'accepte les termes et conditions</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="payment">Paiement</string>
+    <string name="nav_card">Carte</string>
+    <string name="your_trips">Vos trajets</string>
+    <string name="coupon">Coupon</string>
+    <string name="card_payment">Paiement par carte</string>
+    <string name="other_payment">Autres paiements</string>
+    <string name="change_card_for_payments">Changer de carte pour les paiements</string>
+    <string name="wallet">Portefeuille</string>
+    <string name="passbook">Livret</string>
+    <string name="help">Aide</string>
+    <string name="share">Partager</string>
+    <string name="share_content_referral">Prime de parrainage, %1$s \nUser - https://play.google.com/store/apps/details?id=com.Thinkin Cab.app \nProvider - https://play.google.com/store/apps/details?id=com.Thinkin Cab.driver.\nInstall cette appli avec le code de parrainage %2$s</string>
+    <string name="invite_referral">Parrainer mes amis </string>
+    <string name="faq_support">Support FAQ</string>
+    <string name="terms_and_conditions">Termes et conditions</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="logout">Déconnexion</string>
+    <string name="settings">Paramètres</string>
+
+    <string name="nav_header_desc">En-tête de navigation</string>
+    <string name="earnings">Objectif</string>
+    <string name="summary">Statistiques</string>
+    <string name="walletTransactions">Document</string>
+
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+    <string name="past">Historique</string>
+    <string name="upcoming">A venir</string>
+
+    <string name="upcoming_trip_details">Trajets planifiés</string>
+    <string name="no_data_found">Aucune donnée disponible</string>
+    <string name="no_past_found">Historique vide</string>
+    <string name="no_upcoming_found">Aucun trajet à venir</string>
+
+    <string name="booking_id">ID de réservation</string>
+    <string name="booking_id_">ID de réservation: %s</string>
+    <string name="favorites">Favoris</string>
+    <string name="choose_language">Choisissez la langue</string>
+    <string name="lost_my_item">J\'ai oublié un objet</string>
+    <string name="incorrect_charge_dispute">Frais de litige erronés</string>
+    <string name="i_would_like_to_refund">Je voudrais rembourser</string>
+    <string name="submit">Soumettre</string>
+    <string name="close">Fermer</string>
+    <string name="write_your_comment">Écrire votre commentaire</string>
+    <string name="reason_for_canceling">Motif d\'annulation</string>
+    <string name="ratings">Évaluation</string>
+
+    <string name="cancel_ride">Annuler trajet</string>
+    <string name="call">Appeler</string>
+    <string name="pay_via">Payez via</string>
+    <string name="comments">Commentaires</string>
+    <string name="cash">Cash</string>
+    <string name="view_receipt">Voir reçu</string>
+    <string name="payment_method">Méthode de paiement</string>
+
+    <string name="invoice">Facture</string>
+    <string name="pay_now">Payer maintenant</string>
+    <string name="time_taken">Durée du trajet</string>
+    <string name="distance_travelled">Distance parcourue</string>
+    <string name="base_fare">Tarif de base</string>
+    <string name="distance_fare">Tarif du trajet</string>
+    <string name="tax">Taxe</string>
+    <string name="tips">Pourboires</string>
+    <string name="add_tips">Ajouter un pourboire</string>
+    <string name="total">Total</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="profile">Profil</string>
+    <string name="service">Service</string>
+    <string name="save">Enregistrer</string>
+
+    <string name="today_completed_target">Objectif atteint aujourd\'hui</string>
+    <!-- Earning-->
+    <string name="sample_earnings" translatable="false">0/0</string>
+    <string name="target_completed">Objectif</string>
+    <string name="total_earnings">Total des gains</string>
+    <string name="time">Temps</string>
+    <string name="distance">Distance</string>
+    <string name="amount">Montant</string>
+    <string name="no_rides">Aucun trajet terminé.</string>
+
+    <!-- Summary-->
+    <string name="total_rides">Nombre total de trajets</string>
+    <string name="revenue">REVENUE</string>
+    <string name="schedule_rides">Nombre de trajets planifiés</string>
+    <string name="canceled_rides">Trajets annulés</string>
+    <string name="rides">Trajets</string>
+    <string name="past_trip_detail">Details de trajets précédents</string>
+    <string name="upcoming_tripdetail">Trajets planifiés</string>
+
+    <string name="support">Support</string>
+    <string name="our_team_persons_will_contact_you_soon">Nos collaborateurs vous contacteront bientôt!</string>
+    <string name="refer_your_friends_to_drive">Parrainez vos amis pour conduire!!</string>
+    <string name="give_the_free_ride_by_reffering_the_invite_code_worth_10vce">Offrez un trajet gratuit avec le code parrainage %s</string>
+    <string name="share_your_invite_code">Partagez votre code de parrainage</string>
+    <string name="refferal_earning">Prime de parrainage</string>
+    <string name="total_members">Total des membres</string>
+    <string name="invite_friends">Inviter des amis</string>
+    <string name="invite_refferal">Inviter un parrainage</string>
+    <string name="change_password">Changement de mot de passe</string>
+    <string name="current_password">Mot de passe actuel</string>
+    <string name="looking_to_change_password">Vous souhaitez changer de mot de passe</string>
+    <string name="go_offline">PASSER HORS LIGNE</string>
+    <string name="go_online">PASSER EN LIGNE</string>
+    <string name="reject">Rejeter</string>
+    <string name="accept">Accepter</string>
+    <string name="pick_up_location">Lieu de ramassage</string>
+    <string name="drop_location">Lieu de destination</string>
+
+    <!--Incoming Request-->
+    <string name="timer_start">1</string>
+    <string name="schedule">Planifier</string>
+    <string name="pick_up">RAMASSER</string>
+    <string name="pick_up_invoice">RAMASSER</string>
+    <string name="drop_at">Lieu de destination </string>
+
+    <!--Flow status -->
+    <string name="arrived">ARRIVÉ</string>
+    <string name="picked_up">RAMASSÉ</string>
+    <string name="tap_when_dropped">CLIQUEZ UNE FOIS DÉPOSÉ</string>
+    <string name="rate_your_trip">Évaluer votre trajet avec</string>
+
+    <string name="cancel">ANNULER</string>
+
+    <string name="promotion_applied">Promotion appliquée</string>
+    <string name="wallet_detection">Détection de portefeuille</string>
+    <string name="amount_to_be_paid">Montant à payer</string>
+    <string name="write_your_reviews">Rédiger votre commentaire</string>
+    <string name="confirm_payment">Confirmer le paiement</string>
+    <string name="choose_city">Choisissez la ville</string>
+
+    <string name="invalid_first_name">Veuillez saisir votre prénom</string>
+    <string name="invalid_last_name">Veuillez saisir votre nom</string>
+    <string name="invalid_mobile">Veuillez saisir un mobile valide</string>
+    <string name="validmobile">Veuillez saisir un numéro de mobile valide</string>
+    <string name="invalid_confirm_password">Veuillez saisir le mot de passe</string>
+    <string name="password_should_be_same">Le mot de passe doit être identique</string>
+    <string name="invalid_password_length">La longueur du mot de passe doit être comprise entre 6 et 15 caractères.</string>
+
+    <string name="invalid_old_password">Veuillez entrer le mot de passe</string>
+    <string name="invalid_new_password">Veuillez saisir un nouveau mot de passe</string>
+    <string name="reason_for_cancelling">Motif d\'annulation</string>
+    <string name="write_your_comments">Rédiger votre commentaire</string>
+    <string name="no_comments">Pas de commentaires</string>
+
+    <string name="card">Carte</string>
+    <string name="by_cash">En espèces</string>
+    <string name="wallet_payment">Paiement de portefeuille</string>
+    <string name="by_wallet">Via portefeuille</string>
+    <string name="by_paypal">Via Paypal</string>
+    <string name="paypal">Paypal</string>
+    <string name="sos">SOS</string>
+
+    <string name="pass_updated">Le mot de passe a été changé avec succès!</string>
+    <string name="write_something">Écris quelque chose…</string>
+    <string name="chat">Chat</string>
+
+    <string name="api_success">Succès API!</string>
+    <string name="error">Erreur!</string>
+    <string name="please_accept_permission">Veuillez accepter toutes les autorisations!</string>
+    <string name="call_permission">Veuillez donner la PERMISSION D\'APPEL!</string>
+    <string name="drop_off_location">Lieu de destination</string>
+    <string name="log_out_title">Voulez-vous vous déconnecter?</string>
+    <string name="ok">OK</string>
+    <string name="login_out_success">Connecté avec succès!</string>
+    <string name="profile_updated">Profil mis à jour!</string>
+    <string name="please_accept_terms_conditions">Veuillez accepter les termes et conditions</string>
+    <string name="no_internet_connection">Désolé! Non connecté à Internet</string>
+    <string name="register_success">Enregistré avec succès…</string>
+    <string name="please_correct_otp">Veuillez saisir la clé OTP correcte</string>
+    <string name="password_updated">Mot de passe mis à jour!</string>
+    <string name="cancel_request_title">Voulez-vous annuler cette demande?</string>
+    <string name="yes">OUI</string>
+    <string name="no">NON</string>
+    <string name="ride_accepted">Trajet accepté!</string>
+    <string name="ride_cancelled">Trajet annulé!</string>
+    <string name="tab_when_dropped">CLIQUEZ UNE FOIS DÉPOSÉ</string>
+    <string name="otp_verified">Clé OTP Vérifié!</string>
+    <string name="otp_wrong">Clé OTP incorrecte!</string>
+    <string name="english" translatable="false">Anglais</string>
+    <string name="arabic">Français</string>
+    <string name="time_fare">Tarif horaire</string>
+    <string name="your_wallet_amount_is">Le montant de votre portefeuille est</string>
+    <string name="transaction_id">ID de Transaction</string>
+    <string name="date">Date</string>
+    <string name="transaction">Transaction</string>
+    <string name="enter_the_amount">Entrez le montant</string>
+    <string name="status">Statut</string>
+    <string name="pending">En attente</string>
+    <string name="no_requested_history">Aucun historique demandé</string>
+    <string name="no_wallet_history">Pas d\'historique de portefeuille</string>
+    <string name="confirm_new_password">Confirmer le nouveau mot de passe</string>
+    <string name="otp">Clé OTP</string>
+    <string name="account_verification_desc">Votre compte n\'est pas encore vérifié ! veuillez patienter…</string>
+    <string name="banned_desc">Votre compte est désactivé. Veuillez contacter Thinkin Cab…</string>
+    <string name="confirm_request_amt">Confirmez le montant de votre demande</string>
+    <string name="confirm">Confirmez</string>
+    <string name="delete">Supprimer</string>
+    <string name="change_card">Oui</string>
+    <string name="card_added">Carte ajoutée</string>
+    <string name="please_enter_card_number">Veuillez saisir le numéro de carte</string>
+    <string name="please_enter_card_cvv">Veuillez saisir le code CVV</string>
+    <string name="please_enter_card_expiration_details">Veuillez saisir la date d\'expiration de la carte</string>
+    <string name="card_">XXXX-XXXX-XXXX-</string>
+    <string name="add_card_details">Ajouter les détails de la carte</string>
+    <string name="card_deleted_successfully">Carte supprimée avec succès</string>
+    <string name="are_sure_you_want_to_delete">Voulez-vous supprimer?</string>
+    <string name="cant_able_to_delete_card">Impossible de supprimer la carte</string>
+    <string name="are_sure_you_want_to_change_default_card">Voulez-vous changer la carte?</string>
+    <string name="are_sure_you_want_to_change_language">Voulez-vous changer de langue?</string>
+    <string name="proceed">Continuer</string>
+    <string name="Add">Ajouter</string>
+    <string name="edit">Modifier</string>
+    <string name="no_document_available">Aucun document disponible</string>
+    <string name="add_all_documents">Veuillez ajouter tous les documents</string>
+    <string name="change_document">Modifier le document</string>
+    <string name="no_document_changed">Modifier n\'importe quel document et soumettre</string>
+    <string name="invalid_img_file">Sélectionnez le fichier d\'image approprié</string>
+    <string name="server_down">Impossible d\'atteindre le serveur</string>
+    <string name="no_internet">Vérifiez votre connexion internet</string>
+    <string name="some_thing_wrong">Quelque chose a mal tourné!</string>
+    <string name="otp_verification">Vérification OTP</string>
+
+    <string name="please_wait">Patientez s\'il vous plaît</string>
+    <string name="schedule_for">Planifier pour</string>
+    <string name="please_try_again">Veuillez réessayer!</string>
+    <string name="logout_successfully">Déconnecté avec succès</string>
+    <string name="unauthenticated">Non authentifié</string>
+    <string name="car_model">Modèle de voiture</string>
+    <string name="car_number">Numéro d\'immatriculation</string>
+    <string name="invalid_service_type">Veuillez sélectionner le type de service</string>
+    <string name="invalid_car_model">Veuillez entrer le modèle de voiture</string>
+    <string name="invalid_car_number">Veuillez entrer le numéro de la voiture</string>
+    <string name="invalid_phone_number">Veuillez entrer le numéro de téléphone</string>
+    <string name="email_already_exist">L\'email existe déjà. Saisissez un nouvel e-mail.</string>
+    <string name="mobile_number_already_exist">Le numéro de téléphone existe déjà. Entrez un nouveau numéro de téléphone</string>
+    <string name="phone_number_already_exists">Le numéro de téléphone existe déjà. Entrez un nouveau numéro de téléphone</string>
+    <string name="invalid_selection">Veuillez sélectionner le motif</string>
+    <string name="please_enter_cancel_reason">Veuillez sélectionner le motif d\'annulation</string>
+    <string name="dispute">Litige</string>
+    <string name="dismiss">Rejeter</string>
+    <string name="ride_updated">Trajet mis à jour</string>
+    <string name="destination_change_to">La destination a été changée en %1s</string>
+    <string name="waiting_time">Temps d\'attente</string>
+    <string name="low_balance">Solde faible! Veuillez vous s\'acquitter de la commission due à Thinkin Cab</string>
+    <string name="notification_manager">Gestionnaire de notifications</string>
+    <string name="instant_ride">Trajet instantané</string>
+    <string name="where_to">Où aller?</string>
+    <string name="done">Valider</string>
+    <string name="enter_destination">Entrez votre adresse de destination</string>
+    <string name="confrim_address">Veuillez confirmer l\'adresse</string>
+    <string name="estimated_fare">Tarif estimé</string>
+    <string name="add_toll_charge">Ajouter des frais de péage</string>
+    <string name="add_toll">Ajouter un péage</string>
+    <string name="menu">Menu</string>
+    <string name="update" translatable="false">Mettre à jour</string>
+    <string name="lost_item">Objet oublié</string>
+    <string name="mention_the_last_item">Mentionnez le dernier objet…</string>
+    <string name="invalid_dispute_comment">Veuillez ajouter une expliquation au litige</string>
+    <string name="dispute_created">Litige déjà créé</string>
+    <string name="toll_charges">Frais de péage</string>
+    <string name="add_amount">Ajouter montant</string>
+    <string name="invalid_amount">Veillez entrer le montant</string>
+    <string name="valid_amount">Veillez entrer un montant valide</string>
+    <string name="new_version_update">Nouvelle version disponible</string>
+    <string name="update_version_message">Une nouvelle version de Thinkin Cab est disponible dans l\'App Store</string>
+    <string name="select_service_type">Sélectionnez le type de service</string>
+    <string name="warning">Avertissement</string>
+    <string name="continue_app">Continuez</string>
+    <string name="user_provider_app_warning">Vous utilisez les applications Passager et Chauffeur sur le même appareil.Il est donc possible que l\'application ne fonctionne pas correctement.</string>
+    <string name="dispute_status">Statut du litige</string>
+    <string name="qr_scan">Scan QR</string>
+    <string name="description">Description</string>
+    <string name="type">Type</string>
+    <string name="credit">Credit</string>
+    <string name="debit">Debit</string>
+    <string name="paytm">Paytm</string>
+    <string name="support_call">Appel du support</string>
+    <string name="braintree">BrainTree</string>
+    <string name="payumoney">Payumoney</string>
+    <string name="qrcode_description">Scan the QR to fetch mobile number…</string>
+    <string name="referral_code_hint">Code de parrainage</string>
+    <string name="stripe_key_missing">Stripe key not available, kindly update in backend…</string>
+    <string name="your_referral_code">Votre code de parrainage</string>
+    <string name="referral_amount">Montant de parrainage:</string>
+    <string name="show_more">…voir plus</string>
+    <string name="show_less">…voir moins</string>
+    <string name="change">Changez</string>
+    <string name="lost_item_error">La demande d\'objet oublié n\'a pas été mise à jour avec succès</string>
+
+    <string name = "montly_gains"> Revenus du mois</string>
+    <string name = "gender"> Sélectionnez le genre</string>
+    <string name = "completed_rides">Trajets terminés</string>
+    <string name = "share_text"> Je vous invite à essayer Thinkin Cab, la nouvelle application de mobilité. </string>
+    <string name="share_link">http://www.Thinkin Cab.com</string>
+    <string name="sos_alert">Alerte SOS</string>
+    <string name="recharge_now">Rechargez maintenant</string>
+    <string name="protected_apps">Protégé</string>
+    <string name="app_protection_activation_needed">Texte</string>
+    <string name="min_amount">Montant minimum</string>
+    <string name="go_to_settings">Aller au paramètres</string>
+    <string name="do_not_show_again">Ne plus montrer</string>
+    <string name="are_sure_you_want_to_emergency_alert">Êtes-vous sûr de l\'alerte d\'urgence?</string>
+    <string name="user_distance" translatable="false">Distance du passager</string>
+    <string name="payment_mode" translatable="false">Mode de paiement</string>
+    <string name="travel_distance" translatable="false">Distance du trajet</string>
+    <string name="add_change_card">Ajouter/ Modifier carte</string>
+    <string-array name="gender_list">
+        <item>Homme </item>
+        <item>Femme</item>
+    </string-array>
+</resources>
+
+
