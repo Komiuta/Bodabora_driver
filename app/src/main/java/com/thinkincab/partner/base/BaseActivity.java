@@ -338,7 +338,7 @@ public abstract class BaseActivity extends AppCompatActivity implements MvpView 
     public Country getDeviceCountry(Context context) {
         return Country.getCountryFromSIM(context) != null
                 ? Country.getCountryFromSIM(context)
-                : new Country("IN", "India", "+91", R.drawable.flag_in);
+                : new Country("KE", "Kenya", "+254", R.drawable.flag_ke);
     }
 
     public void hideKeyboard() {

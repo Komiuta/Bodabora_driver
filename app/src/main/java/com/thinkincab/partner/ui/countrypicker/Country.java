@@ -269,7 +269,7 @@ public class Country {
             new Country("ZW", "Zimbabwe", "+263", R.drawable.flag_zw),*/
 
             //new Country("FR", "France", "+33", R.drawable.flag_fr),
-            new Country("IN", "India", "+91", R.drawable.flag_in),
+            new Country("KE", "Kenya", "+254", R.drawable.flag_ke),
             //new Country("DJ", "Djibouti", "+253", R.drawable.flag_dj),
     };
     private static List<Country> allCountriesList;

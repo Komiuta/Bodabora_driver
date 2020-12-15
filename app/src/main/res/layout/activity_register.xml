@@ -202,7 +202,7 @@
                     android:id="@+id/txtVehicleNumber"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="Car Number"
+                    android:hint="Bike Number"
                     android:inputType="text"
                     android:textColor="@color/colorPrimaryText"
                     android:textSize="16sp"
@@ -237,7 +237,7 @@
                         android:layout_height="@dimen/_20sdp"
                         android:layout_centerVertical="true"
                         android:layout_marginStart="@dimen/_10sdp"
-                        android:src="@drawable/flag_fr" />
+                        android:src="@drawable/flag_ke" />
 
                     <TextView
                         android:id="@+id/countryNumber"
@@ -247,7 +247,7 @@
                         android:layout_marginStart="@dimen/_6sdp"
                         android:layout_toEndOf="@+id/countryImage"
                         android:gravity="center"
-                        android:text="+33"
+                        android:text="+254"
                         android:textSize="@dimen/_15sdp" />
 
                     <EditText

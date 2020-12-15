@@ -112,9 +112,9 @@ public class InstantRideActivity extends BaseActivity
     private GoogleMap mGoogleMap;
     private FusedLocationProviderClient mFusedLocation;
     private BottomSheetBehavior mBottomSheetBehavior;
-    String countryCode = "+91";
+    String countryCode = "+254";
     private PlacesAutoCompleteAdapter mAutoCompleteAdapter;
-    String countryFlag = "IN";
+    String countryFlag = "KE";
     CountryPicker mCountryPicker;
     private InstantRidePresenter<InstantRideActivity> presenter = new InstantRidePresenter<>();
     private Map<String, Object> instantRide;
